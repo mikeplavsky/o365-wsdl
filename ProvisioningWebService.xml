@@ -121,7 +121,7 @@
   <wsdl:message name="IProvisioningWebService_RemoveServicePrincipalCredentials_BindingRedirectionExceptionFault_FaultMessage">
     <wsdl:part xmlns:q24="http://schemas.datacontract.org/2004/07/Microsoft.Online.Administration.WebService" name="detail" element="q24:BindingRedirectionException"/>
   </wsdl:message>
-  <wsdl:message name="IProvisioningWebService_RemovServicePrincipalCredentials_ThrottlingExceptionFault_FaultMessage">
+  <wsdl:message name="IProvisioningWebService_RemoveServicePrincipalCredentials_ThrottlingExceptionFault_FaultMessage">
     <wsdl:part xmlns:q25="http://schemas.datacontract.org/2004/07/Microsoft.Online.Administration.WebService" name="detail" element="q25:ThrottlingException"/>
   </wsdl:message>
   <wsdl:message name="IProvisioningWebService_RemoveServicePrincipalCredentials_TransientServiceErrorExceptionFault_FaultMessage">
