@@ -236,7 +236,7 @@
     <wsdl:part xmlns:q58="http://schemas.datacontract.org/2004/07/Microsoft.Online.Administration.WebService" name="detail" element="q58:InternalServiceException"/>
   </wsdl:message>
   <wsdl:message name="IProvisioningWebService_RemoveServicePrincipalCredentialsByAppPrincipalId_KeyNotFoundExceptionFault_FaultMessage">
-    <wsdl:part xmlns:q70="http://schemas.datacontract.org/2004/07/Microsoft.Online.Administration.WebService" name="detail" element="q59:KeyNotFoundException"/>
+    <wsdl:part xmlns:q59="http://schemas.datacontract.org/2004/07/Microsoft.Online.Administration.WebService" name="detail" element="q59:KeyNotFoundException"/>
   </wsdl:message>
   <wsdl:message name="IProvisioningWebService_RemoveServicePrincipalCredentialsByAppPrincipalId_ServicePrincipalCredentialNotSettableExceptionFault_FaultMessage">
     <wsdl:part xmlns:q60="http://schemas.datacontract.org/2004/07/Microsoft.Online.Administration.WebService" name="detail" element="q60:ServicePrincipalCredentialNotSettableException"/>
